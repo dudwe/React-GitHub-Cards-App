@@ -1,19 +1,11 @@
 const testData = [
-  {
-   name: "Dan Abramov", 
-   avatar_url: "https://avatars0.githubusercontent.com/u/810438?v=4",
-   company: "@facebook "
-  },
+
   {
    name: "Bhavin Shah", 
    avatar_url: "https://avatars2.githubusercontent.com/u/24966383?v=4",
    company: "@nomura "    
   },
-  {
-   name: "Tochi Obudulu", 
-   avatar_url: "https://avatars1.githubusercontent.com/u/4491786?v=4",
-   company: "@blackrock "    
-  }
+
 ];
 
 
